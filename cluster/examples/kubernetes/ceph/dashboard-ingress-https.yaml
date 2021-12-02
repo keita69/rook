@@ -31,4 +31,4 @@ spec:
               service:
                 name: rook-ceph-mgr-dashboard
                 port:
-                  name: https-dashboard
+                  name: http-dashboard
